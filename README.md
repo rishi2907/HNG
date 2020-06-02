@@ -1,2 +1,2 @@
-# hng
+# HNG
 HNG Assignment
